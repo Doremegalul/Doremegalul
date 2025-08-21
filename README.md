@@ -18,8 +18,6 @@ I am a computer science practitioner specializing in artificial intelligence, pr
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doremegalul&layout=compact&theme=tokyonight)
 
-![snake gif](https://github.com/Doremegalul/Doremegalul/blob/output/github-contribution-grid-snake.svg)
-
 ## 📧 Contacts
 - Email: minhltran1102@gmail.com
 - LinkedIn: www.linkedin.com/in/minhltran
